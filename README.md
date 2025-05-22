@@ -9,7 +9,7 @@ This will preserve the following formats:
 - Mentions will be in bold
 - Footer will be in italics
 
-# Required Dependencies
+## Required Dependencies
 - Python 3.10.7 or greater
 - The pip package management tool
 - A Google Cloud project
